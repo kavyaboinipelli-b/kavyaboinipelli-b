@@ -4,9 +4,11 @@ About Me
 
 B.Tech Graduate in Electronics & Communication Engineering.
 
-Former Technical Support Associate at Tech Mahindra.
+Former Technical Support Associate at Tech Mahindra with experience in reporting, issue analysis, root cause investigation, and process improvement.
 
-Currently transitioning into Data Analytics and building practical skills in SQL, Power BI, Python, and Excel.
+Currently transitioning into Data Analytics and building practical projects in SQL, Power BI, Python, and Excel.
+
+---
 
 Skills
 
@@ -59,11 +61,15 @@ Statistics
 - Standard Deviation
 - Correlation Analysis
 
+---
+
 Current Learning Roadmap
 
 - Advanced SQL
 - Power BI Dashboard Development
 - Python for Data Analysis
+
+---
 
 Upcoming Projects
 
@@ -78,6 +84,8 @@ Status: Planned
 Employee Attrition Analysis (Python)
 
 Status: Planned
+
+---
 
 Connect With Me
 
