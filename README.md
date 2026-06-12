@@ -2,7 +2,7 @@ Hi, I'm Kavyasri 👋
 
 Aspiring Data Analyst | SQL | Python | Power BI
 
-B.Tech (ECE) Graduate and former Technical Support Associate at Tech Mahindra with 11 months of experience in reporting, issue analysis, and root cause investigation.
+B.Tech (ECE) Graduate and former Associate Technical Support at Tech Mahindra with 11 months 14 days of experience in reporting, issue analysis, and root cause investigation.
 
 Skilled in analyzing data, building dashboards, and generating business insights using SQL, Python, and Power BI.
 
@@ -40,4 +40,4 @@ Seeking opportunities as a Data Analyst where I can apply analytical thinking, b
 
 Connect With Me
 
-LinkedIn: [Add Your LinkedIn URL]
+LinkedIn: [(https://www.linkedin.com/in/kavyasri-boinipelli-b550b5231)]
