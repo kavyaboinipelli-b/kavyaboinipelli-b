@@ -1,96 +1,43 @@
 Hi, I'm Kavyasri 👋
 
-About Me
+Aspiring Data Analyst | SQL | Python | Power BI
 
-B.Tech Graduate in Electronics & Communication Engineering.
+B.Tech (ECE) Graduate and former Technical Support Associate at Tech Mahindra with 11 months of experience in reporting, issue analysis, and root cause investigation.
 
-Former Technical Support Associate at Tech Mahindra with experience in reporting, issue analysis, root cause investigation, and process improvement.
+Skilled in analyzing data, building dashboards, and generating business insights using SQL, Python, and Power BI.
 
-Currently transitioning into Data Analytics and building practical projects in SQL, Power BI, Python, and Excel.
+Technical Skills
 
----
+- SQL (Joins, CTEs, Window Functions, Aggregations, Subqueries)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI (Data Modeling, DAX, Dashboard Development)
+- Excel
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- KPI Reporting & Business Insights
 
-Skills
+Featured Projects
 
-Data Analysis
+Retail Sales Customer Analytics
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- KPI Reporting
-- Business Insights
+Tools: SQL, Python, Power BI
 
-SQL
+- Analyzed sales and profitability trends across categories and regions.
+- Identified top-performing categories, states, and loss-making segments.
+- Performed Exploratory Data Analysis (EDA) using Python and Pandas.
+- Built an interactive Power BI dashboard for business decision-making.
 
-- Joins
-- Subqueries
-- CTEs
-- Window Functions
-- Aggregations
-- Views
-- CASE Statements
-- Date Functions
+SQL Ecommerce Analytics
 
-Power BI
+Tools: SQL
 
-- DAX
-- Power Query
-- Data Modeling
-- Dashboard Development
-- KPI Dashboards
+- Performed customer, sales, and revenue analysis using SQL.
+- Applied joins, CTEs, aggregations, subqueries, and window functions.
+- Generated actionable business insights from transactional data.
 
-Python
+Career Goal
 
-- Pandas
-- NumPy
-- Matplotlib
-
-Excel
-
-- Pivot Tables
-- XLOOKUP
-- Power Query
-- Conditional Formatting
-- Data Validation
-- Charts
-
-Statistics
-
-- Mean
-- Median
-- Mode
-- Standard Deviation
-- Correlation Analysis
-
----
-
-Current Learning Roadmap
-
-- Advanced SQL
-- Power BI Dashboard Development
-- Python for Data Analysis
-
----
-
-Upcoming Projects
-
-SQL E-Commerce Analytics
-
-Status: Planned
-
-Customer Churn Dashboard (Power BI)
-
-Status: Planned
-
-Employee Attrition Analysis (Python)
-
-Status: Planned
-
----
+Seeking opportunities as a Data Analyst where I can apply analytical thinking, business understanding, and data-driven problem solving to support business growth and decision-making.
 
 Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/kavyasri-boinipelli
-
-Email:
-kavyaboinipelli@gmail.com
+LinkedIn: [Add Your LinkedIn URL]
