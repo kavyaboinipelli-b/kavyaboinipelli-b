@@ -100,7 +100,6 @@ LinkedIn:
 www.linkedin.com/in/kavyasri-boinipelli-b550b5231
 
 GitHub:
-github.com/kavyaboinipelli-b
-
+https://github.com/kavyaboinipelli-b
 Email:
 kavyaboinipelli@gmail.com
