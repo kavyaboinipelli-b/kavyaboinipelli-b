@@ -1,6 +1,6 @@
 Hi, I'm Kavyasri 👋
 
-Aspiring Data Analyst | SQL | Python | Power BI
+Data Analyst | SQL | Python | Power BI
 
 B.Tech (ECE) Graduate and former Associate Technical Support Engineer at Tech Mahindra with 11 months of experience in reporting, issue analysis, troubleshooting, and root cause investigation.
 
@@ -52,15 +52,19 @@ Excel
 
 Featured Projects
 
-Retail Sales Customer Analytics
+HR Employee Attrition Analysis
 
-Tools: SQL, Python, Power BI
+Repository: https://github.com/kavyaboinipelli-b/HR-Employee-Attrition-Analysis
 
-- Analyzed sales and profitability trends across categories and regions.
-- Identified top-performing products, states, and loss-making segments.
-- Performed Exploratory Data Analysis (EDA) using Python and Pandas.
-- Created interactive Power BI dashboards to support business decisions.
-- Generated actionable insights using sales and customer data.
+Tools: SQL, Python, Pandas, Matplotlib
+
+- Analyzed employee attrition patterns using IBM HR Analytics data.
+- Conducted department-wise, job role-wise, and salary-based attrition analysis.
+- Performed data cleaning and exploratory data analysis (EDA).
+- Created visualizations to identify employee turnover trends.
+- Generated insights to support employee retention strategies.
+
+---
 
 ---
 
@@ -75,7 +79,9 @@ Tools: SQL
 
 ---
 
-HR Employee Attrition Analysis
+### HR Employee Attrition Analysis
+
+Repository: https://github.com/kavyaboinipelli-b/HR-Employee-Attrition-Analysis
 
 Tools: SQL, Python, Pandas, Matplotlib
 
@@ -83,7 +89,6 @@ Tools: SQL, Python, Pandas, Matplotlib
 - Conducted department-wise, job role-wise, and salary-based attrition analysis.
 - Performed data cleaning and Exploratory Data Analysis (EDA).
 - Created visualizations to identify employee turnover trends.
-- Used SQL queries for employee attrition reporting and analysis.
 - Generated insights to support employee retention strategies.
 
 ---
